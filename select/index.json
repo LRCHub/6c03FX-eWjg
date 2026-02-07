@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フェイキング・オブ・コメディ",
+  "base_artist": "jon-YAKITORY",
+  "createdAt": "2026-02-07T08:42:29.790666Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フェイキング・オブ・コメディ",
+      "artist": "jon-YAKITORY",
+      "has_synced": false,
+      "path": "select/pl_01_フェイキング・オブ・コメディ_jon-YAKITORY.txt"
+    }
+  ]
+}
